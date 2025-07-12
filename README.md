@@ -1,0 +1,2 @@
+# help
+Arquivos de ajuda
