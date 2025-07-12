@@ -1,12 +1,20 @@
+# github
+
+## Download
 https://desktop.github.com/download/
 https://code.visualstudio.com/download
 
-Meu diretorio no Github: https://github.com/CabosEtc/
+## Meu diretorio no Github
+https://github.com/CabosEtc/
 
+
+## Passos
 1- Criar repositório, escolher nome e se é público ou privado.
 2- Adicionar o README.md
 3- Clonar o repositório pelo terminal:
-git clone https://github.com/CabosEtc/help.git
+a) git clone https://github.com/CabosEtc/help.git
+b) Usar o GiHub Desktop para Clonar o repositório
+
 cd site-gerenciamento
 4- Faça o upload dos seus arquivos:commit
 git add .
